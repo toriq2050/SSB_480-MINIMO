@@ -1,0 +1,57 @@
+header{
+    max-width: 90%;
+    margin:0 auto;
+    margin-top: 60px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu{
+    width: 80%;
+    float: right;
+    text-align: right;
+}
+.menu nav a{
+   text-decoration: none;
+   color: #626262;
+   margin-left: 70px;
+   text-transform: uppercase;
+}
+.banner{
+    max-width: 90%;
+    margin:0 auto;
+  
+}
+.banner img{
+    width: 100%;
+    margin-top: 60px;
+}
+.about{
+max-width: 80%;
+margin:0 auto;
+margin-top: 40px;
+}
+.about h5{
+    color: #626262;
+    font-size: 18px;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+.about h1{
+    color: #626262;
+    font-size: 30px;
+    font-weight: 5;
+}
+.about p{
+    color: #626262;
+    font-size: 15px;
+
+}
+.about h3{
+    color: #626262;
+    font-size: 18px;
+    font-weight: 5;
+    text-transform: uppercase;
+    margin-top: 80px;
+}
